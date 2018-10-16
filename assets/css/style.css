@@ -1,0 +1,184 @@
+* {
+	/*reset*/
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.menu {
+	height: 200px;
+	background-color: red; 
+	font-family: 'Great Vibes', cursive;
+	color: white;
+	
+}
+
+.menu1 {
+	height: 200px;
+	width: 20%;
+	padding: 8px;
+	float: left;
+}
+
+
+.sulat {
+	float: left;
+	text-align: center;
+	width: 60%;
+	height: 100%;
+}
+
+.menu2 {
+	height: 200px;
+	width: 20%;
+	padding: 8px;
+	float: left;
+
+}
+
+
+/*.sidebar {
+	height: 300px;
+	background-color: #f09a9d; /*red*/
+	width:  200px;
+	float: left;
+}
+*/
+
+.content {
+	height: 500px;
+	background-color: white opacity .5;
+	width: 800px;
+	float: left;
+}
+
+
+.footer {
+	/*height: 200px;*/
+	background-color: #d6e9fe; /*lightblue*/
+	clear: both;
+	/*border: 5px solid red;*/
+
+}
+
+
+.page {
+	width:  900px;
+	margin: 0 auto;
+	/*border: 2px solid red;*/
+	background-color: #eaedf0;
+	
+}
+
+
+
+.clear:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+
+.container {
+	background-image:url("../images/image8.jpg");
+	padding: 40px;
+	background-repeat:no-repeat;
+	background-size: cover;
+	height: 1000px;
+
+}
+
+.column {
+	background-image:url("../images/image7.jpg");
+	height: 160px;
+	width: 31%;
+	margin: 20px 1.16%;
+	float: left;
+	border-radius: 10px;
+}
+
+.article-image {
+	float: left;
+	width: 300px;
+	height:200px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	opacity: 1.5;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+/*.avatar {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 25px;
+	border-radius: 40px;
+	background-color: #d6e9fe;
+}*/
+
+.username {
+	margin-top: 30px;
+}
+
+
+.comment {
+	margin: 10px;
+	/*overflow: hidden;*/
+}
+
+
+.ibon {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 25px;
+	border-radius: 40px;
+	background-color: yellow;
+}
+
+/*.ibon {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 25px;
+	border-radius: 40px;
+	background-color: red;
+}*/
+
+.bell {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 25px;
+	border-radius: 40px;
+	background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
